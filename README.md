@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/kfr0327/dotnet%20desktop%20build/_apis/build/status/dotnet%20desktop%20build-.NET%20Desktop-CI?branchName=master)](https://dev.azure.com/kfr0327/dotnet%20desktop%20build/_build/latest?definitionId=1&branchName=master)
